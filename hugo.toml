@@ -1,16 +1,16 @@
-baseURL = 'http://example.org/' 
+baseURL = 'http://iiNotes.org/' 
 languageCode = 'en-us'
 theme = "JuiceBar"
-title = "your_blog_title"
+title = "test"
 
 [params]
 author = "your_name"
 description = "My site description"
-authorImage = "/images/profile.jpg"
+authorImage = ""
 paginate = 5 
-Title = "your_blog_title"
+Title = "hello"
 content = "I'm JuiceBar, nice to meet you(ˊ˘ˋ*)♡"
-imageUrl = "/images/avatar.jpg"
+imageUrl = ""
 
 # To add a new social icon 
 # More social icons can be found in JuiceBar\layouts\partials\svg.html.

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>your_blog_title</title>
+    <link>http://example.org/</link>
+    <description>Recent content on your_blog_title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Feb 2024 09:58:10 -0500</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latex</title>
+      <link>http://example.org/math/latex/</link>
+      <pubDate>Tue, 06 Feb 2024 09:58:10 -0500</pubDate>
+      <guid>http://example.org/math/latex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discrete</title>
+      <link>http://example.org/math/discrete/</link>
+      <pubDate>Tue, 06 Feb 2024 09:58:05 -0500</pubDate>
+      <guid>http://example.org/math/discrete/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSO</title>
+      <link>http://example.org/cs/cso/</link>
+      <pubDate>Tue, 06 Feb 2024 09:57:27 -0500</pubDate>
+      <guid>http://example.org/cs/cso/</guid>
+      <description>Why is this not working</description>
+    </item>
+  </channel>
+</rss>
